@@ -11,8 +11,8 @@ const Footer = () => {
       >
         rahulfedev@gmail.com
       </a>
-      <div className="flex justify-between px-3 mt-32 mb-3">
-        <div>&copy; 2024.rahul</div>
+      <div className="flex justify-center px-3 mt-32 mb-3">
+        {/* <div>&copy; 2024.rahul</div> */}
         <div className="flex gap-5">
           <a
             href="https://www.linkedin.com/in/itsrahulr/"
